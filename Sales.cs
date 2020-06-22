@@ -7,7 +7,7 @@ using TugasLab8.ClassInduk;
 
 namespace TugasLab8.ClassAnak
 {
-    public class Sales : Karyawan
+    public class Sales : Theemployee
     {
         public int JumlahPenjualan { get; set; }
         public int Komisi { get; set; }

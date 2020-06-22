@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TugasLab8.ClassInduk
 {
-    public abstract class Karyawan
+    public abstract class Theemployee
     {
         public string Nama { get; set; }
         public string NIK { get; set; }

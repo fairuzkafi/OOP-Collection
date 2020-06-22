@@ -7,7 +7,7 @@ using TugasLab8.ClassInduk;
 
 namespace TugasLab8.ClassAnak
 {
-    public class KaryawanTetap : Karyawan
+    public class permanentemployees : Theemployee
     {
         public double GajiBulanan { get; set; }
         public override double Gaji()
